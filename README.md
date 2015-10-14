@@ -2,8 +2,8 @@
 
 A juicy theme based on juicy sublime theme.
 Html
-![](http://imgur.com/j7gYiMD)
+![](http://i.imgur.com/j7gYiMD.png)
 Js
-![](http://imgur.com/kfzZsJX)
+![](http://i.imgur.com/kfzZsJX.png)
 Less
-![](http://imgur.com/Wmt50cR)
+![](http://i.imgur.com/Wmt50cR.png)
