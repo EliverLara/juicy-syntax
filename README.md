@@ -1,5 +1,9 @@
 # juicy-syntax theme
 
-A short description of your theme.
-
-![A screenshot of your theme](https://www.facebook.com/photo.php?fbid=428994977307702&set=gm.509532849224605&type=3&theater)
+A juicy theme based on juicy sublime theme.
+Html
+![](http://imgur.com/j7gYiMD)
+Js
+![](http://imgur.com/kfzZsJX)
+Less
+![](http://imgur.com/Wmt50cR)
