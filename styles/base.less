@@ -98,7 +98,7 @@ atom-text-editor .search-results .marker.current-result .region,
 }
 
 .storage {
-  color: #FF4E50;
+  color: #fb5f61;
 }
 
 .constant {
@@ -109,7 +109,7 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 
   &.numeric {
-    color: #CE1836;
+    color: @red;
   }
 
   &.other.color {
@@ -191,6 +191,9 @@ atom-text-editor .search-results .marker.current-result .region,
 }
 
 .support {
+    &.constant{
+        color: @white;
+    }
   &.class {
     color: @blue-2;
   }

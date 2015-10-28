@@ -4,14 +4,14 @@ A juicy theme based on juicy sublime theme.
 
 ## Screenshot
 
-Html
+##Html
 
-![](http://i.imgur.com/j7gYiMD.png)
+![](http://i.imgur.com/UrUjxRj.png)
 
-Js
+##Js
 
-![](http://i.imgur.com/kfzZsJX.png)
+![](http://i.imgur.com/v1dS3NQ.png)
 
-Less
+##Less
 
 ![](http://i.imgur.com/Wmt50cR.png)

@@ -1,11 +1,12 @@
 {
   "name": "juicy-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Syntax theme based on juicy sublime theme",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "dark"
   ],
   "repository": "https://github.com/EliverLara/juicy-syntax.git",
   "license": "MIT",
