@@ -2,4 +2,4 @@
 
 A sintax theme based on juicy sublime theme.
 
-![](http://i.imgur.com/Wmt50cR.png)
+![](https://raw.githubusercontent.com/EliverLara/juicy-syntax/master/screenshot/juicy.png)
